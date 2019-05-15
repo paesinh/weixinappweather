@@ -11,7 +11,7 @@
         <view class="menu-item-main">
           <text class="menu-item-name">{{item.date}} {{item.weather}} {{item.wind}} {{item.temperature}}</text>
           <image class="menu-item-arrow" src="{{item.dayPictureUrl}}"></image>
-          <image class="menu-item-arrow" src="{{item.dayPictureUrl}}"></image>
+          
         </view>
       </view>
   </view>

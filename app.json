@@ -10,7 +10,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "my天气预报",
+    "navigationBarTitleText": "小白天气预报",
     "navigationBarTextStyle": "black"
   },
   "networkTimeout": {
